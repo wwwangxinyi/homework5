@@ -254,6 +254,7 @@ a:focus {
   /*You will want four selectors*/
   body {
     background-image: none;
+    -webkit-print-color-adjust: exact;
   }
 
   .pricing {
